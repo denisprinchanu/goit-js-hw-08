@@ -1,0 +1,23 @@
+ul.gallery {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 25px;
+    user-select: none;
+    list-style: none;
+  }
+
+  
+   img {
+    width: 360px;
+    height: 200px;
+    
+  }
+
+  .basicLightbox {
+    background: rgba(46, 47, 66, 0.8);
+  }
+
+
+
+
